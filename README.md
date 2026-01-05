@@ -5,7 +5,7 @@ This project showcases a complete fitness website with multiple pages, smooth na
 
 🚀 Live Demo
 
-🔗 Website: https://kamalesh.github.io/Gym/
+🔗 Website: https://kamal-san.github.io/LightWeight_Gym
 
 
 🛠️ Tech Stack
