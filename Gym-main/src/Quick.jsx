@@ -35,7 +35,7 @@ function Quick()
             </div>
             <div className="c4">
                 <h2 className="headb">Location</h2>
-                <p>131,ricemill street,sipcot,ranipet district</p>
+                <p>53, Kalavai Road, Near ASM school, Arcot, Ranipet - 632 503</p>
             </div>
             
         </div>
