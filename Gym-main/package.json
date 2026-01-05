@@ -2,7 +2,7 @@
   "name": "myapp",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://github.com/Kamal-san/LightWeight_Gym.git",
+  "homepage": "https://kamal-san.github.io/LightWeight_Gym",
 
   "type": "module",
   "scripts": {

@@ -10,7 +10,7 @@ import Footer from "./Footer.jsx";
 
 function App() {
     return (
-        <Router>
+        <Router basename="/LightWeight_Gym">
             <div className="main">
                 <Navi />
                 <Routes>
